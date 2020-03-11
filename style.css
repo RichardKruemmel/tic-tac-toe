@@ -1,4 +1,26 @@
-    body {
-        background-color: red;
+h1 {
+	text-align:center; 
+}
 
-    }
+td{
+	width: 150px;
+	height: 150px;
+}
+
+table{
+	margin: 5px auto;
+}
+
+.top {
+	border-left: solid;
+	border-right: solid;
+}
+
+.middle {
+	border: solid;
+}
+
+.side {
+	border-top: solid;
+	border-bottom: solid;
+}
